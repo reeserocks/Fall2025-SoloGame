@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Levels/MyStartingMap.umap"
+				"C:/Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Levels/MyStartingMap.umap",
+				"C:/Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Levels/LevelOne.umap",
+				"C:/Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Materials/PPM_Pixel.uasset",
+				"C:/Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Materials/MI_Pixel.uasset"
 			]
 		}
 	]
