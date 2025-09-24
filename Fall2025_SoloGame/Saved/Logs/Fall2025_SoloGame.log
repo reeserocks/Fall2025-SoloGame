@@ -5477,3 +5477,637 @@ Script Stack (0 frames) :
 [2025.09.24-14.48.44:128][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
 [2025.09.24-14.48.44:265][686]LogPlayLevel: Display: Destroying online subsystem :Context_66
 [2025.09.24-14.48.49:165][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.09.24-14.51.42:830][856]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-14.51.42:830][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-14.51.42:877][856]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-14.51.42:877][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-14.51.42:946][856]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-14.51.42:946][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-14.51.42:999][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.24-14.51.52:022][377]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/MM_Carrying.MM_Carrying
+[2025.09.24-14.51.52:023][377]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.09.24-14.51.52:036][377]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.51.52:383][377]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.09.24-14.51.58:100][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.24-14.52.11:623][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.24-14.54.41:670][162]Cmd: TRANSACTION UNDO
+[2025.09.24-14.54.41:670][162]LogEditorTransaction: Undo Scale Elements
+[2025.09.24-14.54.42:118][162]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.54.42:124][162]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.54.44:538][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5741.300781
+[2025.09.24-14.54.44:638][305]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-14.54.44:638][305]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5741.383789, Update Interval: 332.163452
+[2025.09.24-14.54.50:093][603]Cmd: TRANSACTION UNDO
+[2025.09.24-14.54.50:093][603]LogEditorTransaction: Undo Scale Elements
+[2025.09.24-14.54.50:549][603]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.54.50:555][603]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.54.52:271][696]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.54.54:357][813]Cmd: TRANSACTION UNDO
+[2025.09.24-14.54.54:357][813]LogEditorTransaction: Undo Group Selected
+[2025.09.24-14.54.54:870][813]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.54.54:876][813]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.55.12:020][777]Cmd: TRANSACTION UNDO
+[2025.09.24-14.55.12:020][777]LogEditorTransaction: Undo Scale Elements
+[2025.09.24-14.55.12:451][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.55.12:457][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.55.24:437][383]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.55.36:446][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-14.55.36:553][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.09.24-14.55.36:724][ 10]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2025.09.24-14.55.36:726][ 10]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/LevelOneDE30ABA54C081A38DF17E8A8CDC699EE.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Levels/LevelOne.umap'
+[2025.09.24-14.55.36:742][ 10]LogFileHelpers: Saving map 'LevelOne' took 0.259
+[2025.09.24-14.55.36:757][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 310.154 ms (total: 6.59 sec)
+[2025.09.24-14.55.36:805][ 10]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-14.55.36:805][ 10]LogContentValidation: Enabled validators:
+[2025.09.24-14.55.36:805][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-14.55.36:805][ 10]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-14.55.36:805][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-14.55.36:805][ 10]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-14.55.36:805][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-14.55.36:805][ 10]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-14.55.36:805][ 10]AssetCheck: /Game/Levels/LevelOne Validating asset
+[2025.09.24-14.57.16:460][818]Cmd: DELETE
+[2025.09.24-14.57.16:460][818]Cmd: ACTOR DELETE
+[2025.09.24-14.57.16:473][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-14.57.16:474][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-14.57.16:512][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.24-14.57.16:518][818]LogEditorActor: Deleted 2 Actors (0.057 secs)
+[2025.09.24-14.57.36:869][663]Cmd: TRANSACTION UNDO
+[2025.09.24-14.57.36:869][663]LogEditorTransaction: Undo Move Elements
+[2025.09.24-14.57.37:305][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.57.37:310][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.57.37:324][663]Cmd: TRANSACTION UNDO
+[2025.09.24-14.57.37:324][663]LogEditorTransaction: Undo Move Elements
+[2025.09.24-14.57.37:749][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.57.37:755][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-14.57.48:888][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-14.57.48:988][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.24-14.57.49:128][279]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2025.09.24-14.57.49:129][279]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/LevelOne6F4351554A5D8807E694C0836ECECF31.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Levels/LevelOne.umap'
+[2025.09.24-14.57.49:147][279]LogFileHelpers: Saving map 'LevelOne' took 0.215
+[2025.09.24-14.57.49:159][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 271.074 ms (total: 6.86 sec)
+[2025.09.24-14.57.49:204][279]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-14.57.49:204][279]LogContentValidation: Enabled validators:
+[2025.09.24-14.57.49:204][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-14.57.49:205][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-14.57.49:205][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-14.57.49:205][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-14.57.49:205][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-14.57.49:205][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-14.57.49:205][279]AssetCheck: /Game/Levels/LevelOne Validating asset
+[2025.09.24-14.58.08:967][175]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.09.24-14.58.08:967][175]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.09.24-14.58.08:969][175]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Levels/LevelOne.LevelOne:PersistentLevel.TriggerBox_0
+[2025.09.24-14.58.08:970][175]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Levels/LevelOne.LevelOne:PersistentLevel.TriggerBox_0
+[2025.09.24-14.58.09:371][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.24-14.58.09:377][192]LogEditorActor: Deleted 0 Actors (0.061 secs)
+[2025.09.24-14.58.09:387][192]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.09.24-14.58.09:387][192]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.09.24-14.58.09:389][192]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Levels/LevelOne.LevelOne:PersistentLevel.TriggerBox_1
+[2025.09.24-14.58.09:390][192]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Levels/LevelOne.LevelOne:PersistentLevel.TriggerBox_1
+[2025.09.24-14.58.35:347][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.58.43:556][115]LogSlate: Took 0.000785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.24-14.58.45:004][181]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.58.45:554][214]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.58.46:366][253]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.58.49:455][418]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.58.50:056][454]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.58.54:768][708]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.58.55:550][753]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.58.55:992][772]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.24-14.59.16:476][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-14.59.16:582][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.09.24-14.59.16:717][969]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2025.09.24-14.59.16:719][969]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/LevelOne19956C79445C5FC2747D4BB27E3FDF96.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Levels/LevelOne.umap'
+[2025.09.24-14.59.16:739][969]LogFileHelpers: Saving map 'LevelOne' took 0.217
+[2025.09.24-14.59.16:751][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 274.248 ms (total: 7.14 sec)
+[2025.09.24-14.59.16:791][969]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-14.59.16:791][969]LogContentValidation: Enabled validators:
+[2025.09.24-14.59.16:792][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-14.59.16:792][969]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-14.59.16:792][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-14.59.16:792][969]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-14.59.16:792][969]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-14.59.16:792][969]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-14.59.16:792][969]AssetCheck: /Game/Levels/LevelOne Validating asset
+[2025.09.24-14.59.32:777][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-14.59.32:878][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.24-14.59.33:013][822]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2025.09.24-14.59.33:014][822]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/LevelOneFDFAC2CB44256F7A6E2854BFDACEE45D.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Levels/LevelOne.umap'
+[2025.09.24-14.59.33:030][822]LogFileHelpers: Saving map 'LevelOne' took 0.210
+[2025.09.24-14.59.33:050][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 273.973 ms (total: 7.41 sec)
+[2025.09.24-14.59.33:095][822]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-14.59.33:095][822]LogContentValidation: Enabled validators:
+[2025.09.24-14.59.33:095][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-14.59.33:095][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-14.59.33:095][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-14.59.33:095][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-14.59.33:095][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-14.59.33:095][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-14.59.33:095][822]AssetCheck: /Game/Levels/LevelOne Validating asset
+[2025.09.24-14.59.39:235][171]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.09.24-14.59.40:088][218]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LevelOne.LevelOne:PersistentLevel.LevelOne
+[2025.09.24-14.59.40:088][218]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.09.24-15.00.41:077][189]LogSlate: Window 'Select Path' being destroyed
+[2025.09.24-15.00.41:884][189]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2025.09.24-15.00.41:902][189]LogActorComponent: UnregisterComponent: (/Game/Blueprints/BP_PuzzleOne.Default__BP_PuzzleOne_C:CollisionComp) Not registered. Aborting.
+[2025.09.24-15.00.41:967][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.09.24-15.00.42:022][189]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PuzzleOne.BP_PuzzleOne
+[2025.09.24-15.00.42:023][189]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.09.24-15.00.51:283][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.00.51:332][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PuzzleOne] ([2] browsable assets)...
+[2025.09.24-15.00.51:332][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PuzzleOne]
+[2025.09.24-15.00.51:338][644]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PuzzleOne
+[2025.09.24-15.00.51:338][644]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/BP_PuzzleOneFDAB8EF649DCEA13DC4ADC9A676B8EF5.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Blueprints/BP_PuzzleOne.uasset'
+[2025.09.24-15.00.51:360][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.618 ms (total: 7.49 sec)
+[2025.09.24-15.00.51:412][644]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.00.51:412][644]LogContentValidation: Enabled validators:
+[2025.09.24-15.00.51:412][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.00.51:412][644]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.00.51:412][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.00.51:412][644]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.00.51:412][644]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.00.51:412][644]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.00.51:412][644]AssetCheck: /Game/Blueprints/BP_PuzzleOne Validating asset
+[2025.09.24-15.00.51:447][644]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.24-15.00.53:771][782]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6110.533203
+[2025.09.24-15.00.53:878][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-15.00.53:878][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6110.623047, Update Interval: 305.529968
+[2025.09.24-15.01.06:592][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.01.06:627][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PuzzleOne] ([2] browsable assets)...
+[2025.09.24-15.01.06:627][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PuzzleOne]
+[2025.09.24-15.01.06:631][533]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PuzzleOne
+[2025.09.24-15.01.06:632][533]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/BP_PuzzleOne28B364AA47D27B0B5CC0BAA3E55817BE.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Blueprints/BP_PuzzleOne.uasset'
+[2025.09.24-15.01.06:643][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.849 ms (total: 7.54 sec)
+[2025.09.24-15.01.06:688][533]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.01.06:688][533]LogContentValidation: Enabled validators:
+[2025.09.24-15.01.06:688][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.01.06:688][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.01.06:688][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.01.06:688][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.01.06:688][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.01.06:688][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.01.06:688][533]AssetCheck: /Game/Blueprints/BP_PuzzleOne Validating asset
+[2025.09.24-15.01.13:691][630]LogEditorTransaction: Undo Add Node
+[2025.09.24-15.01.14:121][630]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-15.01.14:127][630]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-15.01.14:951][675]LogEditorTransaction: Undo Delete current selection
+[2025.09.24-15.01.15:317][675]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-15.01.15:323][675]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-15.01.15:451][680]LogEditorTransaction: Undo Delete current selection
+[2025.09.24-15.01.15:812][680]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-15.01.15:817][680]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-15.01.45:402][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.01.45:441][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PuzzleOne] ([2] browsable assets)...
+[2025.09.24-15.01.45:441][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PuzzleOne]
+[2025.09.24-15.01.45:445][537]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PuzzleOne
+[2025.09.24-15.01.45:446][537]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/BP_PuzzleOneF7B61CC448103FCD9D553B8F7499A00A.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Blueprints/BP_PuzzleOne.uasset'
+[2025.09.24-15.01.45:460][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.304 ms (total: 7.60 sec)
+[2025.09.24-15.01.45:500][537]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.01.45:500][537]LogContentValidation: Enabled validators:
+[2025.09.24-15.01.45:501][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.01.45:501][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.01.45:501][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.01.45:501][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.01.45:501][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.01.45:501][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.01.45:501][537]AssetCheck: /Game/Blueprints/BP_PuzzleOne Validating asset
+[2025.09.24-15.02.28:505][507]LogSlate: Took 0.000454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.09.24-15.02.57:895][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.24-15.03.28:575][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.09.24-15.03.51:793][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.24-15.04.01:772][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.04.01:816][323]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PuzzleOne] ([2] browsable assets)...
+[2025.09.24-15.04.01:816][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PuzzleOne]
+[2025.09.24-15.04.01:822][323]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PuzzleOne
+[2025.09.24-15.04.01:823][323]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/BP_PuzzleOne4753CB9A412D0362EF175EBD919552E2.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Blueprints/BP_PuzzleOne.uasset'
+[2025.09.24-15.04.01:838][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.991 ms (total: 7.66 sec)
+[2025.09.24-15.04.01:883][323]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.04.01:883][323]LogContentValidation: Enabled validators:
+[2025.09.24-15.04.01:883][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.04.01:883][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.04.01:883][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.04.01:883][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.04.01:883][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.04.01:883][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.04.01:883][323]AssetCheck: /Game/Blueprints/BP_PuzzleOne Validating asset
+[2025.09.24-15.04.03:228][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.24-15.04.04:914][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.24-15.04.04:923][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.04.05:029][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.24-15.04.05:158][490]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2025.09.24-15.04.05:159][490]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/LevelOne2E77CE854CDD4C88B88C6DAD39EB8F2D.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Levels/LevelOne.umap'
+[2025.09.24-15.04.05:175][490]LogFileHelpers: Saving map 'LevelOne' took 0.203
+[2025.09.24-15.04.05:184][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 260.554 ms (total: 7.92 sec)
+[2025.09.24-15.04.05:225][490]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.04.05:225][490]LogContentValidation: Enabled validators:
+[2025.09.24-15.04.05:225][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.04.05:225][490]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.04.05:225][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.04.05:225][490]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.04.05:225][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.04.05:225][490]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.04.05:225][490]AssetCheck: /Game/Levels/LevelOne Validating asset
+[2025.09.24-15.04.58:706][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.09.24-15.04.59:834][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.24-15.04.59:844][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.04.59:884][725]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PuzzleOne] ([2] browsable assets)...
+[2025.09.24-15.04.59:884][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PuzzleOne]
+[2025.09.24-15.04.59:891][725]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PuzzleOne
+[2025.09.24-15.04.59:892][725]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/BP_PuzzleOne0EB926C343B680AA2A386595C313A584.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Blueprints/BP_PuzzleOne.uasset'
+[2025.09.24-15.04.59:904][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.492 ms (total: 7.98 sec)
+[2025.09.24-15.04.59:948][725]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.04.59:948][725]LogContentValidation: Enabled validators:
+[2025.09.24-15.04.59:948][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.04.59:948][725]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.04.59:948][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.04.59:948][725]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.04.59:948][725]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.04.59:948][725]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.04.59:948][725]AssetCheck: /Game/Blueprints/BP_PuzzleOne Validating asset
+[2025.09.24-15.05.07:835][ 67]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_GrabObject.BP_GrabObject_C
+[2025.09.24-15.05.07:835][ 67]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_GrabObject.BP_GrabObject_C
+[2025.09.24-15.05.07:837][ 67]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_GrabObject.BP_GrabObject as actor: BP_GrabObject_C /Game/Levels/LevelOne.LevelOne:PersistentLevel.BP_GrabObject_C_2
+[2025.09.24-15.05.07:839][ 67]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_GrabObject.BP_GrabObject as actor: BP_GrabObject_C /Game/Levels/LevelOne.LevelOne:PersistentLevel.BP_GrabObject_C_2
+[2025.09.24-15.05.08:660][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.24-15.05.08:669][ 91]LogEditorActor: Deleted 0 Actors (0.067 secs)
+[2025.09.24-15.05.08:678][ 91]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_GrabObject.BP_GrabObject_C
+[2025.09.24-15.05.08:678][ 91]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_GrabObject.BP_GrabObject_C
+[2025.09.24-15.05.08:681][ 91]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_GrabObject.BP_GrabObject as actor: BP_GrabObject_C /Game/Levels/LevelOne.LevelOne:PersistentLevel.BP_GrabObject_C_3
+[2025.09.24-15.05.08:682][ 91]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_GrabObject.BP_GrabObject as actor: BP_GrabObject_C /Game/Levels/LevelOne.LevelOne:PersistentLevel.BP_GrabObject_C_3
+[2025.09.24-15.05.11:111][217]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_GrabObject.BP_GrabObject_C
+[2025.09.24-15.05.11:111][217]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_GrabObject.BP_GrabObject_C
+[2025.09.24-15.05.11:113][217]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_GrabObject.BP_GrabObject as actor: BP_GrabObject_C /Game/Levels/LevelOne.LevelOne:PersistentLevel.BP_GrabObject_C_4
+[2025.09.24-15.05.11:115][217]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_GrabObject.BP_GrabObject as actor: BP_GrabObject_C /Game/Levels/LevelOne.LevelOne:PersistentLevel.BP_GrabObject_C_4
+[2025.09.24-15.05.12:137][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.24-15.05.12:142][247]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2025.09.24-15.05.12:151][247]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_GrabObject.BP_GrabObject_C
+[2025.09.24-15.05.12:151][247]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_GrabObject.BP_GrabObject_C
+[2025.09.24-15.05.12:155][247]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_GrabObject.BP_GrabObject as actor: BP_GrabObject_C /Game/Levels/LevelOne.LevelOne:PersistentLevel.BP_GrabObject_C_5
+[2025.09.24-15.05.12:156][247]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_GrabObject.BP_GrabObject as actor: BP_GrabObject_C /Game/Levels/LevelOne.LevelOne:PersistentLevel.BP_GrabObject_C_5
+[2025.09.24-15.05.13:931][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.05.14:032][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.24-15.05.14:161][347]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2025.09.24-15.05.14:162][347]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/LevelOneC384A1964042C3E358BD0D8FA456F0D4.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Levels/LevelOne.umap'
+[2025.09.24-15.05.14:180][347]LogFileHelpers: Saving map 'LevelOne' took 0.206
+[2025.09.24-15.05.14:192][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 262.191 ms (total: 8.24 sec)
+[2025.09.24-15.05.14:239][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.05.14:239][347]LogContentValidation: Enabled validators:
+[2025.09.24-15.05.14:239][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.05.14:239][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.05.14:240][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.05.14:240][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.05.14:240][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.05.14:240][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.05.14:240][347]AssetCheck: /Game/Levels/LevelOne Validating asset
+[2025.09.24-15.05.18:237][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.05.18:280][585]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PuzzleOne] ([2] browsable assets)...
+[2025.09.24-15.05.18:280][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PuzzleOne]
+[2025.09.24-15.05.18:286][585]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PuzzleOne
+[2025.09.24-15.05.18:287][585]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/BP_PuzzleOneEFCC007B49265D4059A6D1BCCF3DF29A.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Blueprints/BP_PuzzleOne.uasset'
+[2025.09.24-15.05.18:300][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.678 ms (total: 8.31 sec)
+[2025.09.24-15.05.18:342][585]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.05.18:342][585]LogContentValidation: Enabled validators:
+[2025.09.24-15.05.18:342][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.05.18:342][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.05.18:342][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.05.18:342][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.05.18:342][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.05.18:342][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.05.18:342][585]AssetCheck: /Game/Blueprints/BP_PuzzleOne Validating asset
+[2025.09.24-15.05.19:457][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.09.24-15.05.21:306][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-15.05.21:306][745]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2025.09.24-15.05.21:334][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027454s)
+[2025.09.24-15.05.21:334][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.027505s)
+[2025.09.24-15.05.21:369][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.09.24-15.05.21:375][745]LogChaosDD: Creating Chaos Debug Draw Scene for world LevelOne
+[2025.09.24-15.05.21:377][745]LogPlayLevel: PIE: World Init took: (0.002298s)
+[2025.09.24-15.05.21:378][745]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.09.24-15.05.21:379][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-15.05.21:379][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-15.05.21:379][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-15.05.21:379][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-15.05.21:379][745]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-15.05.21:379][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-15.05.21:379][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-15.05.21:379][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-15.05.21:379][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-15.05.21:379][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-15.05.21:379][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-15.05.21:382][745]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-15.05.21:461][745]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.24-15.05.21:461][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-15.05.21:461][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-15.05.21:461][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-15.05.21:462][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.09.24-15.05.21:462][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.09.24-15.05.21:464][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.09.24-15.05.21:464][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.09.24-15.05.21:464][745]LogInit: FAudioDevice initialized with ID 46.
+[2025.09.24-15.05.21:464][745]LogAudio: Display: Audio Device (ID: 46) registered with world 'LevelOne'.
+[2025.09.24-15.05.21:464][745]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.09.24-15.05.21:470][745]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.24-15.05.21:483][745]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2025.09.24-11.05.21
+[2025.09.24-15.05.21:485][745]LogWorld: Bringing up level for play took: 0.015422
+[2025.09.24-15.05.21:488][745]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2025.09.24-15.05.21:495][745]PIE: Server logged in
+[2025.09.24-15.05.21:497][745]PIE: Play in editor total start time 0.192 seconds.
+[2025.09.24-15.05.24:442][920]LogBlueprintUserMessages: [BP_PuzzleOne_C_0] 1
+[2025.09.24-15.05.28:025][135]LogBlueprintUserMessages: [BP_PuzzleOne_C_0] 2
+[2025.09.24-15.05.31:042][316]LogBlueprintUserMessages: [BP_PuzzleOne_C_0] Puzzle 1 Complete!
+[2025.09.24-15.05.31:042][316]LogBlueprintUserMessages: [BP_PuzzleOne_C_0] 3
+[2025.09.24-15.05.31:542][346]LogBlueprintUserMessages: [BP_PuzzleOne_C_0] 4
+[2025.09.24-15.05.40:211][866]LogBlueprintUserMessages: [BP_PuzzleOne_C_0] 5
+[2025.09.24-15.05.43:666][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-15.05.43:666][ 71]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2025.09.24-15.05.43:666][ 71]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.05.43:668][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.05.43:676][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-15.05.43:681][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.05.43:712][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-15.05.43:713][ 71]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2025.09.24-15.05.43:713][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=4
+[2025.09.24-15.05.43:716][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=2
+[2025.09.24-15.05.43:730][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.24-15.05.43:828][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2025.09.24-15.06.11:244][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.09.24-15.06.14:404][885]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.06.14:404][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.06.14:473][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.24-15.06.16:373][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.24-15.06.51:025][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.09.24-15.06.57:618][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6474.374023
+[2025.09.24-15.06.57:735][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-15.06.57:736][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6474.474121, Update Interval: 327.843872
+[2025.09.24-15.08.34:146][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.09.24-15.08.38:012][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.09.24-15.08.38:020][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.08.38:064][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PuzzleOne] ([2] browsable assets)...
+[2025.09.24-15.08.38:064][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PuzzleOne]
+[2025.09.24-15.08.38:071][173]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PuzzleOne
+[2025.09.24-15.08.38:072][173]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/BP_PuzzleOne4FD39AB644D8F6F1EE9233990D0BB3C4.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Blueprints/BP_PuzzleOne.uasset'
+[2025.09.24-15.08.38:094][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.651 ms (total: 8.38 sec)
+[2025.09.24-15.08.38:141][173]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.08.38:142][173]LogContentValidation: Enabled validators:
+[2025.09.24-15.08.38:142][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.08.38:142][173]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.08.38:142][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.08.38:142][173]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.08.38:142][173]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.08.38:142][173]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.08.38:142][173]AssetCheck: /Game/Blueprints/BP_PuzzleOne Validating asset
+[2025.09.24-15.08.39:454][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-15.08.39:455][239]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2025.09.24-15.08.39:481][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027112s)
+[2025.09.24-15.08.39:482][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.027162s)
+[2025.09.24-15.08.39:516][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2025.09.24-15.08.39:521][239]LogChaosDD: Creating Chaos Debug Draw Scene for world LevelOne
+[2025.09.24-15.08.39:524][239]LogPlayLevel: PIE: World Init took: (0.002552s)
+[2025.09.24-15.08.39:525][239]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.09.24-15.08.39:525][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-15.08.39:525][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-15.08.39:525][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-15.08.39:525][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-15.08.39:525][239]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-15.08.39:525][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-15.08.39:525][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-15.08.39:525][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-15.08.39:525][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-15.08.39:525][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-15.08.39:525][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-15.08.39:528][239]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-15.08.39:605][239]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.24-15.08.39:607][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-15.08.39:607][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-15.08.39:607][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-15.08.39:607][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.09.24-15.08.39:607][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.09.24-15.08.39:610][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.09.24-15.08.39:610][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.09.24-15.08.39:610][239]LogInit: FAudioDevice initialized with ID 47.
+[2025.09.24-15.08.39:610][239]LogAudio: Display: Audio Device (ID: 47) registered with world 'LevelOne'.
+[2025.09.24-15.08.39:610][239]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2025.09.24-15.08.39:615][239]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.24-15.08.39:628][239]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2025.09.24-11.08.39
+[2025.09.24-15.08.39:630][239]LogWorld: Bringing up level for play took: 0.015007
+[2025.09.24-15.08.39:634][239]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2025.09.24-15.08.39:640][239]PIE: Server logged in
+[2025.09.24-15.08.39:642][239]PIE: Play in editor total start time 0.188 seconds.
+[2025.09.24-15.08.42:857][430]PIE: Warning: Invalid Simulate Options: Body (BP_GrabObject2.Model Cube1) is set to simulate physics but Collision Enabled is incompatible
+[2025.09.24-15.08.42:857][430]PIE: Warning: Invalid Simulate Options: Body (BP_GrabObject2.Model Cube1) is set to simulate physics but Collision Enabled is incompatible
+[2025.09.24-15.08.42:857][430]LogBlueprintUserMessages: [BP_PuzzleOne_C_0] 1
+[2025.09.24-15.08.46:091][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-15.08.46:091][622]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2025.09.24-15.08.46:091][622]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.08.46:094][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.08.46:102][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-15.08.46:108][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.08.46:138][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-15.08.46:140][622]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2025.09.24-15.08.46:140][622]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=4
+[2025.09.24-15.08.46:142][622]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=2
+[2025.09.24-15.08.46:156][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.24-15.08.46:333][623]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2025.09.24-15.08.49:106][755]LogSlate: Window 'Message Log' being destroyed
+[2025.09.24-15.08.49:150][755]LogSlate: Window 'Message Log' being destroyed
+[2025.09.24-15.09.01:484][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.09.24-15.09.02:645][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.24-15.09.02:654][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.09.02:699][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PuzzleOne] ([2] browsable assets)...
+[2025.09.24-15.09.02:699][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PuzzleOne]
+[2025.09.24-15.09.02:706][521]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PuzzleOne
+[2025.09.24-15.09.02:707][521]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/BP_PuzzleOne11E74B78477AB361F66D99B4A8A5A9EE.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Blueprints/BP_PuzzleOne.uasset'
+[2025.09.24-15.09.02:721][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.122 ms (total: 8.45 sec)
+[2025.09.24-15.09.02:765][521]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.09.02:765][521]LogContentValidation: Enabled validators:
+[2025.09.24-15.09.02:765][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.09.02:765][521]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.09.02:765][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.09.02:765][521]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.09.02:765][521]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.09.02:765][521]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.09.02:765][521]AssetCheck: /Game/Blueprints/BP_PuzzleOne Validating asset
+[2025.09.24-15.09.04:911][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-15.09.04:911][627]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelOne
+[2025.09.24-15.09.04:938][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027221s)
+[2025.09.24-15.09.04:938][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelOne.LevelOne to /Game/Levels/UEDPIE_0_LevelOne.LevelOne (0.027275s)
+[2025.09.24-15.09.04:972][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.24-15.09.04:976][627]LogChaosDD: Creating Chaos Debug Draw Scene for world LevelOne
+[2025.09.24-15.09.04:978][627]LogPlayLevel: PIE: World Init took: (0.002202s)
+[2025.09.24-15.09.04:979][627]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.09.24-15.09.04:979][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-15.09.04:979][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-15.09.04:979][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-15.09.04:979][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-15.09.04:979][627]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-15.09.04:979][627]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-15.09.04:979][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-15.09.04:979][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-15.09.04:979][627]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-15.09.04:979][627]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-15.09.04:979][627]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-15.09.04:981][627]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-15.09.05:056][627]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.24-15.09.05:056][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-15.09.05:056][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-15.09.05:056][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-15.09.05:057][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.09.24-15.09.05:057][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.09.24-15.09.05:059][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.09.24-15.09.05:059][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.09.24-15.09.05:059][627]LogInit: FAudioDevice initialized with ID 48.
+[2025.09.24-15.09.05:059][627]LogAudio: Display: Audio Device (ID: 48) registered with world 'LevelOne'.
+[2025.09.24-15.09.05:059][627]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2025.09.24-15.09.05:065][627]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.24-15.09.05:078][627]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2025.09.24-11.09.05
+[2025.09.24-15.09.05:080][627]LogWorld: Bringing up level for play took: 0.014813
+[2025.09.24-15.09.05:083][627]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2025.09.24-15.09.05:088][627]PIE: Server logged in
+[2025.09.24-15.09.05:090][627]PIE: Play in editor total start time 0.18 seconds.
+[2025.09.24-15.09.07:757][786]PIE: Warning: Invalid Simulate Options: Body (BP_GrabObject2.Model Cube1) is set to simulate physics but Collision Enabled is incompatible
+[2025.09.24-15.09.07:757][786]PIE: Warning: Invalid Simulate Options: Body (BP_GrabObject2.Model Cube1) is set to simulate physics but Collision Enabled is incompatible
+[2025.09.24-15.09.07:757][786]PIE: Warning: Invalid Simulate Options: Body (BP_GrabObject2.Model Cube1) is set to simulate physics but Collision Enabled is incompatible
+[2025.09.24-15.09.07:757][786]LogBlueprintUserMessages: [BP_PuzzleOne_C_0] 1
+[2025.09.24-15.09.09:002][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-15.09.09:002][859]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelOne
+[2025.09.24-15.09.09:002][859]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.09:004][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.09:012][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-15.09.09:023][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.09:061][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-15.09.09:061][859]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2025.09.24-15.09.09:061][859]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=4
+[2025.09.24-15.09.09:064][859]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=2
+[2025.09.24-15.09.09:077][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.24-15.09.09:242][860]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2025.09.24-15.09.10:775][942]LogSlate: Window 'Message Log' being destroyed
+[2025.09.24-15.09.10:784][942]LogSlate: Window 'Message Log' being destroyed
+[2025.09.24-15.09.15:902][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.09.24-15.09.19:275][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.09.24-15.09.19:284][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-15.09.19:327][437]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PuzzleOne] ([2] browsable assets)...
+[2025.09.24-15.09.19:327][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PuzzleOne]
+[2025.09.24-15.09.19:337][437]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PuzzleOne
+[2025.09.24-15.09.19:338][437]LogSavePackage: Moving '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/BP_PuzzleOne74F1211041FFA048CC814D8B38D6A4CA.tmp' to '../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Content/Blueprints/BP_PuzzleOne.uasset'
+[2025.09.24-15.09.19:352][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.579 ms (total: 8.52 sec)
+[2025.09.24-15.09.19:397][437]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-15.09.19:397][437]LogContentValidation: Enabled validators:
+[2025.09.24-15.09.19:397][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-15.09.19:397][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-15.09.19:397][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-15.09.19:397][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-15.09.19:397][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-15.09.19:397][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-15.09.19:397][437]AssetCheck: /Game/Blueprints/BP_PuzzleOne Validating asset
+[2025.09.24-15.09.27:021][890]LogSlate: Window 'Message Log' being destroyed
+[2025.09.24-15.09.27:032][890]LogSlate: Window 'Message Log' being destroyed
+[2025.09.24-15.09.31:592][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.24-15.09.35:108][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.09.24-15.09.37:338][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.09.24-15.09.37:401][483]LogStall: Shutdown...
+[2025.09.24-15.09.37:401][483]LogStall: Shutdown complete.
+[2025.09.24-15.09.37:468][483]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.37:468][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.37:683][483]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.24-15.09.37:683][483]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.37:683][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.37:977][483]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.37:977][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.38:008][483]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.38:008][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.38:038][483]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.38:038][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.38:151][483]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.38:151][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.38:167][483]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.38:168][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.38:207][483]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.24-15.09.38:207][483]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.38:207][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.38:275][483]LogSlate: Window 'Fall2025_SoloGame - Unreal Editor' being destroyed
+[2025.09.24-15.09.39:207][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.09.24-15.09.39:293][483]Cmd: QUIT_EDITOR
+[2025.09.24-15.09.39:293][484]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.24-15.09.39:305][484]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.24-15.09.39:307][484]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.24-15.09.39:307][484]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.24-15.09.39:333][484]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:333][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:361][484]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.24-15.09.39:362][484]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.24-15.09.39:368][484]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.24-15.09.39:412][484]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:412][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:416][484]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:416][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:421][484]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:421][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:426][484]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:426][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:433][484]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:434][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:439][484]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:439][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:443][484]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:443][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:449][484]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:449][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:455][484]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:455][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:460][484]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:460][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:466][484]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:466][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:472][484]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:473][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:478][484]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-15.09.39:478][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-15.09.39:490][484]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.24-15.09.39:490][484]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.24-15.09.39:499][484]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.24-15.09.40:423][484]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.24-15.09.40:423][484]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.24-15.09.40:423][484]LogAudio: Display: Audio Device unregistered from world 'LevelOne'.
+[2025.09.24-15.09.40:423][484]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.24-15.09.40:424][484]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.24-15.09.40:430][484]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.24-15.09.40:456][484]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.24-15.09.40:456][484]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.24-15.09.40:464][484]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.09.24-15.09.40:474][484]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.24-15.09.40:475][484]LogExit: Preparing to exit.
+[2025.09.24-15.09.40:548][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.24-15.09.40:557][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:557][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:560][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.40:561][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.24-15.09.41:216][484]LogEditorDataStorage: Deinitializing
+[2025.09.24-15.09.41:469][484]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.24-15.09.41:634][484]LogExit: Editor shut down
+[2025.09.24-15.09.41:677][484]LogExit: Transaction tracking system shut down
+[2025.09.24-15.09.42:872][484]LogExit: Object subsystem successfully closed.
+[2025.09.24-15.09.42:969][484]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.24-15.09.43:335][484]LogMemoryProfiler: Shutdown
+[2025.09.24-15.09.43:335][484]LogNetworkingProfiler: Shutdown
+[2025.09.24-15.09.43:335][484]LoadingProfiler: Shutdown
+[2025.09.24-15.09.43:336][484]LogTimingProfiler: Shutdown
+[2025.09.24-15.09.43:342][484]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.24-15.09.43:342][484]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
