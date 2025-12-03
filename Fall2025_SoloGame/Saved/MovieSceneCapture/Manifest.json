@@ -1,0 +1,175 @@
+{
+	"Type": "/Script/MovieSceneTools.AutomatedLevelSequenceCapture",
+	"Data":
+	{
+		"levelSequenceAsset": "/Game/Sequences/Trailer/LS_Environment1.LS_Environment1",
+		"shotName": "",
+		"bUseCustomStartFrame": true,
+		"customStartFrame":
+		{
+			"value": 0
+		},
+		"bUseCustomEndFrame": true,
+		"customEndFrame":
+		{
+			"value": 90
+		},
+		"warmUpFrameCount": 0,
+		"delayBeforeWarmUp": 0,
+		"delayBeforeShotWarmUp": 0,
+		"delayEveryFrame": 0,
+		"bWriteEditDecisionList": true,
+		"bWriteFinalCutProXML": true,
+		"levelSequenceActor": "None",
+		"imageCaptureProtocolType": "/Script/MovieSceneCapture.ImageSequenceProtocol_PNG",
+		"audioCaptureProtocolType": "/Script/MovieSceneCapture.NullAudioCaptureProtocol",
+		"settings":
+		{
+			"outputDirectory":
+			{
+				"path": "../../../../../../Users/reese/OneDrive/Documents/Unreal Projects/Fall2025-SoloGame/Fall2025_SoloGame/Saved/Sequences/Environment1"
+			},
+			"gameModeOverride": "None",
+			"outputFormat": "{world}.{frame}",
+			"bOverwriteExisting": false,
+			"bUseRelativeFrameNumbers": false,
+			"handleFrames": 0,
+			"movieExtension": ".avi",
+			"zeroPadFrameNumbers": 4,
+			"frameRate":
+			{
+				"numerator": 30,
+				"denominator": 1
+			},
+			"bUseCustomFrameRate": false,
+			"customFrameRate":
+			{
+				"numerator": 24,
+				"denominator": 1
+			},
+			"resolution":
+			{
+				"resX": 1920,
+				"resY": 1080
+			},
+			"bEnableTextureStreaming": false,
+			"bCinematicEngineScalability": true,
+			"bCinematicMode": true,
+			"bAllowMovement": false,
+			"bAllowTurning": false,
+			"bShowPlayer": false,
+			"bShowHUD": false,
+			"bUsePathTracer": false,
+			"pathTracerSamplePerPixel": 16
+		},
+		"bUseSeparateProcess": true,
+		"bCloseEditorWhenCaptureStarts": false,
+		"additionalCommandLineArguments": "-NOSCREENMESSAGES"
+	},
+	"AdditionalData":
+	{
+		"ImageProtocolType": "/Script/MovieSceneCapture.ImageSequenceProtocol_PNG",
+		"ImageProtocolData":
+		{
+			"compressionQuality": 100
+		},
+		"AudioProtocolType": "/Script/MovieSceneCapture.NullAudioCaptureProtocol",
+		"AudioProtocolData":
+		{
+		},
+		"BurnInOptions":
+		{
+			"bUseBurnIn": false,
+			"burnInClass": "/Engine/Sequencer/DefaultBurnIn.DefaultBurnIn_C",
+			"settings":
+			{
+				"_ClassName": "/Engine/Sequencer/DefaultBurnInOptions.DefaultBurnInOptions_C",
+				"topLeftText": "{FocalLength}mm, {Aperture}, {FocusDistance} ",
+				"topCenterText": "{RootName} - {Date} - {EngineVersion}",
+				"topRightText": "{TranslationX} {TranslationY} {TranslationZ}, {RotationX} {RotationY} {RotationZ}",
+				"bottomLeftText": "{ShotName}",
+				"bottomCenterText": "{hh}:{mm}:{ss}:{ff} ({RootFrame})",
+				"bottomRightText": "{SourceTimecode}  {ShotFrame}",
+				"watermark": "None",
+				"watermarkTint":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 0.5
+				},
+				"font":
+				{
+					"fontObject": "/Script/Engine.Font'/Engine/EngineFonts/DroidSansMono.DroidSansMono'",
+					"fontMaterial": "None",
+					"outlineSettings":
+					{
+						"outlineSize": 0,
+						"bMiteredCorners": false,
+						"bSeparateFillAlpha": false,
+						"bApplyOutlineToDropShadows": true,
+						"outlineMaterial": "None",
+						"outlineColor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						}
+					},
+					"typefaceFontName": "Default",
+					"size": 16,
+					"letterSpacing": 0,
+					"skewAmount": 0,
+					"bForceMonospaced": false,
+					"bMaterialIsStencil": false,
+					"monospacedWidth": 1
+				}
+			}
+		},
+		"BurnInOptionsInitSettings":
+		{
+			"topLeftText": "{FocalLength}mm, {Aperture}, {FocusDistance} ",
+			"topCenterText": "{RootName} - {Date} - {EngineVersion}",
+			"topRightText": "{TranslationX} {TranslationY} {TranslationZ}, {RotationX} {RotationY} {RotationZ}",
+			"bottomLeftText": "{ShotName}",
+			"bottomCenterText": "{hh}:{mm}:{ss}:{ff} ({RootFrame})",
+			"bottomRightText": "{SourceTimecode}  {ShotFrame}",
+			"watermark": "None",
+			"watermarkTint":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 0.5
+			},
+			"font":
+			{
+				"fontObject": "/Script/Engine.Font'/Engine/EngineFonts/DroidSansMono.DroidSansMono'",
+				"fontMaterial": "None",
+				"outlineSettings":
+				{
+					"outlineSize": 0,
+					"bMiteredCorners": false,
+					"bSeparateFillAlpha": false,
+					"bApplyOutlineToDropShadows": true,
+					"outlineMaterial": "None",
+					"outlineColor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 1
+					}
+				},
+				"typefaceFontName": "Default",
+				"size": 16,
+				"letterSpacing": 0,
+				"skewAmount": 0,
+				"bForceMonospaced": false,
+				"bMaterialIsStencil": false,
+				"monospacedWidth": 1
+			}
+		}
+	}
+}
