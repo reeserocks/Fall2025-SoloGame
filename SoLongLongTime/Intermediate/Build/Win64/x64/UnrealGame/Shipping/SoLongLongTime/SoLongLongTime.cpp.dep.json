@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\reese\\onedrive\\documents\\unreal projects\\fall2025-sologame\\solonglongtime\\intermediate\\source\\solonglongtime.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\reese\\onedrive\\documents\\unreal projects\\fall2025-sologame\\solonglongtime\\intermediate\\build\\win64\\x64\\solonglongtime\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\reese\\onedrive\\documents\\unreal projects\\fall2025-sologame\\solonglongtime\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\solonglongtime\\definitions.solonglongtime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

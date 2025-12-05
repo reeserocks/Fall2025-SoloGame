@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\reese\\OneDrive\\Documents\\Unreal Projects\\Fall2025-SoloGame\\SoLongLongTime\\Intermediate\\Source\\SoLongLongTime.Build.cs",
+		"C:\\Users\\reese\\OneDrive\\Documents\\Unreal Projects\\Fall2025-SoloGame\\SoLongLongTime\\Intermediate\\Source\\SoLongLongTime.Target.cs",
+		"C:\\Users\\reese\\OneDrive\\Documents\\Unreal Projects\\Fall2025-SoloGame\\SoLongLongTime\\Intermediate\\Source\\SoLongLongTimeClient.Target.cs",
+		"C:\\Users\\reese\\OneDrive\\Documents\\Unreal Projects\\Fall2025-SoloGame\\SoLongLongTime\\Intermediate\\Source\\SoLongLongTimeEditor.Target.cs",
+		"C:\\Users\\reese\\OneDrive\\Documents\\Unreal Projects\\Fall2025-SoloGame\\SoLongLongTime\\Intermediate\\Source\\SoLongLongTimeServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
